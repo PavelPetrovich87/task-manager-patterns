@@ -1,4 +1,3 @@
-import React from 'react';
 import { TasksContainer } from '@features/tasks/components/TasksContainer';
 
 function App() {
