@@ -1,0 +1,25 @@
+task-management-system/
+├── src/
+│   ├── core/
+│   │   ├── domain/
+│   │   │   └── task/
+│   │   └── interfaces/
+│   ├── features/
+│   │   └── tasks/
+│   │       ├── components/
+│   │       ├── lib/
+│   │       └── store/
+│   ├── shared/
+│   │   ├── ui/
+│   │   └── utils/
+│   ├── app/
+│   │   └── providers/
+│   ├── config/
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── vite-env.d.ts
+├── public/
+├── index.html
+├── tsconfig.json
+├── vite.config.ts
+└── package.json 

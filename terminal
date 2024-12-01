@@ -1,0 +1,2 @@
+npm create vite@latest task-management-system -- --template react-ts
+cd task-management-system 
