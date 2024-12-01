@@ -1,4 +1,4 @@
-import { Task, TaskId, TaskPriority, TaskStatus } from './types';
+import { Task, TaskId, TaskPriority, TaskStatus, Tag } from './types';
 
 export class TaskEntity implements Task {
   public readonly id: TaskId;
