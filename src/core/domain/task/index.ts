@@ -1,1 +1,3 @@
-// Core task domain exports will go here 
+export * from './types';
+export * from './task.entity';
+export * from './task.errors'; 
